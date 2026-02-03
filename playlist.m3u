@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 group-title="Новости",ТЕСТ КАНАЛ
+https://test-stream.m3u8
